@@ -1,2 +1,2 @@
-# Word-Puzzle
+# Word Buzz
  Word guesser game
